@@ -1,7 +1,7 @@
 {
-  "name": "Barber Junior · Réservation",
-  "short_name": "Barber Junior",
-  "description": "Réservi f Barber Junior, Tabriquet Salé, 24h/24.",
+  "name": "Yassine Barber · Réservation",
+  "short_name": "Yassine Barb",
+  "description": "Réservi f Yassine Barber, Tabriquet. 24h/24.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -9,8 +9,21 @@
   "theme_color": "#FFFFFF",
   "lang": "fr",
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
-    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
